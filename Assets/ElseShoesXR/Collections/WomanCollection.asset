@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7410f6bd0ddae0244a44a85bcbd477ba, type: 3}
+  m_Name: WomanCollection
+  m_EditorClassIdentifier: 
+  productsPrefabs:
+  - {fileID: 1063474004082974, guid: d1ebf22b7fccb4e4083f62af74091a5b, type: 2}
+  - {fileID: 1509980725780000, guid: 16e0166f5be58c04a827237238ce7701, type: 2}
+  materialsLibrary:
+  - {fileID: 11400000, guid: ed1aec0982e455743bd6e64fe94276bc, type: 2}
+  - {fileID: 11400000, guid: 7b94eab0d29bff940951065322217140, type: 2}
+  - {fileID: 11400000, guid: 66c48203070f2a446b9f71e5b5ffce84, type: 2}
+  - {fileID: 11400000, guid: bcb559fab1153d04095da996fd9f8193, type: 2}

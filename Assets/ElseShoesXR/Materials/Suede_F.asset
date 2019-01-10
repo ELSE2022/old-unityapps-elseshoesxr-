@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f5817a74c0492c4a9445939a7ab0b28, type: 3}
+  m_Name: Suede_F
+  m_EditorClassIdentifier: 
+  name: Suede
+  icon: {fileID: 21300096, guid: 34108983c41907f4a937e2fd926107e0, type: 3}
+  colorIcon: {fileID: 21300106, guid: 34108983c41907f4a937e2fd926107e0, type: 3}
+  matVariations:
+  - {fileID: 2100000, guid: 9ee42f5bcb4251b45b00964c02eab5cc, type: 2}
+  - {fileID: 2100000, guid: d7abd68cb9184ac468207205ace7fced, type: 2}
+  - {fileID: 2100000, guid: 88f02705a4ba6af4ba957a2c20c75354, type: 2}
+  - {fileID: 2100000, guid: 41246151a8b1dd9489713424d5270ced, type: 2}
+  - {fileID: 2100000, guid: 16484da9c9e10e5489adcc33231ec775, type: 2}
+  - {fileID: 2100000, guid: 784040d34ff1bcc49a05f5f860d3ead9, type: 2}
+  - {fileID: 2100000, guid: a2c629b9deb3b4243bcc488c6f3b84a9, type: 2}
+  - {fileID: 2100000, guid: 7fec57d6c69172e43916c74b13e5018b, type: 2}
+  - {fileID: 2100000, guid: 7f58d30865d9002438fd54a3667d227f, type: 2}
+  - {fileID: 2100000, guid: 2aaa911cf1a99ad4e96f3900eb2a7445, type: 2}
+  - {fileID: 2100000, guid: 96fa41683181dc94bbaafda1e79e9715, type: 2}

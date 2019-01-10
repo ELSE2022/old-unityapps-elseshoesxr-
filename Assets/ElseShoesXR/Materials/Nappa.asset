@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f5817a74c0492c4a9445939a7ab0b28, type: 3}
+  m_Name: Nappa
+  m_EditorClassIdentifier: 
+  name: Nappa
+  icon: {fileID: 21300098, guid: 34108983c41907f4a937e2fd926107e0, type: 3}
+  colorIcon: {fileID: 21300108, guid: 34108983c41907f4a937e2fd926107e0, type: 3}
+  matVariations:
+  - {fileID: 2100000, guid: 4e061459cef50a84e8ea33d7e1c54d58, type: 2}
+  - {fileID: 2100000, guid: 3137725a44389cd469caaa06111f5a0d, type: 2}
+  - {fileID: 2100000, guid: a9d0cd0d4c6cf524d9ea741e9f7c81d4, type: 2}
+  - {fileID: 2100000, guid: e90ec9467ebf8da4b8a35637d498fbf3, type: 2}
+  - {fileID: 2100000, guid: 2479ad5448de04b4fbc5f784548024df, type: 2}
+  - {fileID: 2100000, guid: 44ffc7021c6ba7d4789db32c44225a28, type: 2}
+  - {fileID: 2100000, guid: ff788a419e05afd4bb8aa78de4b7229e, type: 2}

@@ -1,0 +1,26 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion "26.0.2"
+    defaultConfig {
+        minSdkVersion 9
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+        }
+    }
+}
+
+task deploy(type: Copy, dependsOn: 'assembleRelease') {
+    from 'build/outputs/aar/utmail-release.aar'
+    into '../../../'
+    rename {
+        fileName -> 'utmail.aar'
+    }
+}
+
+dependencies {
+    provided fileTree(dir: 'libs-provided', include: ['*.jar'])
+}

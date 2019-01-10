@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f5817a74c0492c4a9445939a7ab0b28, type: 3}
+  m_Name: Monton
+  m_EditorClassIdentifier: 
+  name: Monton
+  icon: {fileID: 21300098, guid: 34108983c41907f4a937e2fd926107e0, type: 3}
+  colorIcon: {fileID: 21300108, guid: 34108983c41907f4a937e2fd926107e0, type: 3}
+  matVariations:
+  - {fileID: 2100000, guid: b2a85ff06c589974da089578500c866c, type: 2}
+  - {fileID: 2100000, guid: 45900adf41a892a4893affb298d4ea5c, type: 2}
+  - {fileID: 2100000, guid: 296ded2dba6d1b74085c30462a6675de, type: 2}
+  - {fileID: 2100000, guid: 2daf092a92e80834c9e13607670a19f7, type: 2}
+  - {fileID: 2100000, guid: f79d5018e0cd5d9438cbae4fbd3d569b, type: 2}
+  - {fileID: 2100000, guid: f920004d1b789f64188f2891b69b93b1, type: 2}
+  - {fileID: 2100000, guid: e533f52fc6a44584e887290ee069b216, type: 2}

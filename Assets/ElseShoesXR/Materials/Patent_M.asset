@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f5817a74c0492c4a9445939a7ab0b28, type: 3}
+  m_Name: Patent_M
+  m_EditorClassIdentifier: 
+  name: Patent
+  icon: {fileID: 21300100, guid: 34108983c41907f4a937e2fd926107e0, type: 3}
+  colorIcon: {fileID: 21300110, guid: 34108983c41907f4a937e2fd926107e0, type: 3}
+  matVariations:
+  - {fileID: 2100000, guid: 4254a8c3723858e449988b33fc545fb5, type: 2}
+  - {fileID: 2100000, guid: 767f14ec32ab6ca4eb4c7051ee7b60c8, type: 2}
+  - {fileID: 2100000, guid: 4818fcaac8467614e8d06ab1999c1019, type: 2}
+  - {fileID: 2100000, guid: c8c22fc611462bc468dcceee3ddd31e4, type: 2}
+  - {fileID: 2100000, guid: e4790e18935223b4397bb830f99c901b, type: 2}
+  - {fileID: 2100000, guid: 82f6cf5a0ab43814e8b1cafbfa11ea46, type: 2}
+  - {fileID: 2100000, guid: 3dbec5f7090adea4e8ad282e6f05f347, type: 2}

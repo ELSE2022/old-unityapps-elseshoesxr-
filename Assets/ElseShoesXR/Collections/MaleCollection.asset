@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7410f6bd0ddae0244a44a85bcbd477ba, type: 3}
+  m_Name: MaleCollection
+  m_EditorClassIdentifier: 
+  productsPrefabs:
+  - {fileID: 1901661021831386, guid: d580c9f2e5291374f9d83f1b7d0e9f7d, type: 2}
+  materialsLibrary:
+  - {fileID: 11400000, guid: 88542adee01965f4a8e5a64d20988421, type: 2}
+  - {fileID: 11400000, guid: 75a3b6ed666d7f24ab66238b15ec5303, type: 2}
+  - {fileID: 11400000, guid: e935677d46aeff243b15e754a0c09c48, type: 2}
+  - {fileID: 11400000, guid: 1ea2df1caf3c6ca438b12c429424adae, type: 2}
+  - {fileID: 11400000, guid: cd6542af74a71e74092d094d36153361, type: 2}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f5817a74c0492c4a9445939a7ab0b28, type: 3}
+  m_Name: Metal
+  m_EditorClassIdentifier: 
+  name: Metal
+  icon: {fileID: 21300156, guid: 34108983c41907f4a937e2fd926107e0, type: 3}
+  colorIcon: {fileID: 21300160, guid: 34108983c41907f4a937e2fd926107e0, type: 3}
+  matVariations:
+  - {fileID: 2100000, guid: c205433bc7ce2a44fabfc35b2d88476e, type: 2}
+  - {fileID: 2100000, guid: bfce8a9797d699f41a3ad0e1525c5546, type: 2}

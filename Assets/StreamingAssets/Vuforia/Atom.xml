@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ELSE_shoes_logo-01" size="0.100000 0.100000" />
+    <ImageTarget name="ELSE_shoes_logo-02" size="0.100000 0.100000" />
+    <ImageTarget name="else_code" size="0.100000 0.120342" />
+    <ImageTarget name="Material_Preview" size="0.100000 0.100000" />
+    <ImageTarget name="Part_Preview" size="0.100000 0.100000" />
+    <ImageTarget name="ELSA" size="0.100000 0.100000" />
+    <ImageTarget name="Model_2" size="0.100000 0.100000" />
+    <ImageTarget name="Model_1" size="0.100000 0.100000" />
+    <ImageTarget name="Fitting_Preview" size="0.100000 0.100000" />
+    <ImageTarget name="Pattern_4" size="0.100000 0.100000" />
+    <ImageTarget name="Pattern_3" size="0.100000 0.100000" />
+    <ImageTarget name="Pattern_2" size="0.100000 0.100000" />
+    <ImageTarget name="Pattern_1" size="0.100000 0.100000" />
+    <ImageTarget name="Main_Marker" size="0.100000 0.100000" />
+    <ImageTarget name="Material_10" size="0.100000 0.100000" />
+    <ImageTarget name="Material_09" size="0.100000 0.100000" />
+    <ImageTarget name="Material_08" size="0.100000 0.100000" />
+    <ImageTarget name="Material_07" size="0.100000 0.100000" />
+    <ImageTarget name="Material_06" size="0.100000 0.100000" />
+    <ImageTarget name="Material_05" size="0.100000 0.100000" />
+    <ImageTarget name="Material_04" size="0.100000 0.100000" />
+    <ImageTarget name="Material_03" size="0.100000 0.100000" />
+    <ImageTarget name="Material_02" size="0.100000 0.100000" />
+    <ImageTarget name="Material_01" size="0.100000 0.100000" />
+  </Tracking>
+</QCARConfig>
